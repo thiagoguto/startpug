@@ -1,0 +1,13 @@
+{
+  "name": "startpug",
+  "version": "1.0.0",
+  "description": "base devel pug to html compile",
+  "main": "index.js",
+  "repository": "git@github.com:thiagoguto/startpug.git",
+  "author": "Thiago Augusto <thiagoaugusto31@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "pug": "^2.0.3"
+  }
+}
